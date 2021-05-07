@@ -1,0 +1,10 @@
+# Do not include azure-functions-worker as it may conflict with the Azure Functions platform
+pandas
+pyhyphen==4.0.1
+tweepy==3.10.0
+requests==2.25.1
+xlrd==1.2.0
+openpyxl==3.0.5
+selenium
+azure-storage-blob
+azure-identity

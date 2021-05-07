@@ -1,0 +1,15 @@
+{
+  "scriptFile": "__init__.py",
+  "bindings": [
+    {
+      "name": "mytimer",
+      "type": "timerTrigger",
+      "direction": "in",
+      "schedule": "0 0 10,13,16,18 * * *",
+      "authLevel": "anonymous",
+      "runOnStartup": false
+    }
+  ]
+}
+
+
