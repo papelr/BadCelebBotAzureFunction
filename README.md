@@ -6,7 +6,7 @@
 4) There is one python script missing - the one with the Twitter API keys & my Slack hook. Obviously that's intentional (if it's not obvious, that's on you, not me!) 
 5) I build the Docker image in VS Code, push to Docker Hub, and then set the WebApp settings in Azure to the latest image push. It's clunky, I know - but how else am I supposed to get Selenium running when Azure only offers one or two base Docker images?
 
-6) Let's not forget some of these spectacularly clunky python scripts (and one very, very mangled class). So, sorry 'bout that, but gotta learn somehow, ya know?
+6) Let's not forget some of these spectacularly clunky python scripts (and one very, **very** mangled class). So, sorry 'bout that, but gotta learn somehow, ya know?
 
 
 # Twitter Account Info
