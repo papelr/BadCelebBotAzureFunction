@@ -26,21 +26,3 @@ def twit_push(consumer_key, consumer_secret,
 if __name__ == '__main__':
     twit_push()
 
-
-
-
-
-
-
-
-
-
-# Detritus ----
-# return consumer_key, consumer_secret, access_token, access_token_secret
-
-
-# twit_push('GoMGPP85D7hmvBGipoF7vQsXC',
-#           'OMWR6qNfr9Xz6ddPkEqlNvb3W2YY6cEtkezM61JcsJDtnYBQ3I',
-#           '1362119469854818309-wPu6CLSvmhU5X1ykoKscee7EN0g7Mh',
-#           'nFZ1irfCJAYdqcHJahIPGyNfSboo9WWxmgORcZFRQydse',
-#           'testttttingggg to the mooon!!!!')
